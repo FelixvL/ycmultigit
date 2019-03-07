@@ -5,3 +5,6 @@ type maar een zin  // felix
 
 
 Hier mijn tweede zin // felix
+
+Dit is een mooie zin van David.
+Jeetje wat een mooie zin.
